@@ -1,0 +1,1 @@
+const getSquare = require("./exportFunctionWithParameter");
